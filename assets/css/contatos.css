@@ -1,6 +1,25 @@
+body {
+    background-color: rgb(70, 100, 150);
+}
 form {
     display: flex;
     flex-direction: column;
     margin: auto;
     width: 50%;
+}
+#sub {
+    width: 25%;
+    margin: auto;
+}
+input {
+    background-color: antiquewhite;
+    border:  6px double green;
+    margin-top: 10px;
+}
+
+input:active {
+    background-color: aquamarine;
+}
+input:hover {
+    background-color: blue;
 }
