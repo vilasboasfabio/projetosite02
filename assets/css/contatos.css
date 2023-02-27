@@ -28,3 +28,6 @@ input:focus {
     border: 6px dotted rgb(116, 147, 116);
     outline: 0;
 }
+#imp {
+    padding-top: 10px;
+}
